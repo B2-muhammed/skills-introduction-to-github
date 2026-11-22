@@ -1,37 +1,42 @@
 <div align="center">
 
-# 🎉 Congratulations B2-muhammed! 🎉
+# 🎉 Introduction to GitHub: Completed 🎉
 
 <img src="https://octodex.github.com/images/welcometocat.png" height="200px" />
 
-### 🌟 You've successfully completed the exercise! 🌟
+### Completed by Bilal Abdulkadir Muhammed ([@B2-muhammed](https://github.com/B2-muhammed))
+
+MSc Artificial Intelligence student at UWE Bristol · IT Support Specialist · Data Analyst
+
+</div>
+
+---
+
+## 📌 About this repository
+
+This repository records my completion of the **GitHub Skills: Introduction to GitHub** course. It covers exercises, issues, pull requests and collaboration workflows.
+
+I'm using these skills for my MSc AI coursework and for open-source contributions.
+
+## 🔗 Related work
+
+- [Profile README](https://github.com/B2-muhammed/B2-muhammed)
+- [Green Digital Ethiopia](https://green-digital-ethiopia.netlify.app/)
+- [LinkedIn](https://linkedin.com/in/bilalabdulkadir) · [ORCID](https://orcid.org/0009-0007-8605-6281)
+
+<div align="center">
 
 ## 🚀 Share Your Success!
 
-**Show off your new skills and inspire others!**
-
-<a href="https://twitter.com/intent/tweet?text=I%20just%20completed%20the%20%22Introduction%20to%20GitHub%22%20GitHub%20Skills%20hands-on%20exercise!%20%F0%9F%8E%89%0A%0Ahttps%3A%2F%2Fgithub.com%2FB2-muhammed%2Fskills-introduction-to-github%0A%0A%23GitHubSkills%20%23OpenSource%20%23GitHubLearn" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/Share%20on%20X-1da1f2?style=for-the-badge&logo=x&logoColor=white" alt="Share on X" />
-</a>
-<a href="https://bsky.app/intent/compose?text=I%20just%20completed%20the%20%22Introduction%20to%20GitHub%22%20GitHub%20Skills%20hands-on%20exercise!%20%F0%9F%8E%89%0A%0Ahttps%3A%2F%2Fgithub.com%2FB2-muhammed%2Fskills-introduction-to-github%0A%0A%23GitHubSkills%20%23OpenSource%20%23GitHubLearn" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/Share%20on%20Bluesky-0085ff?style=for-the-badge&logo=bluesky&logoColor=white" alt="Share on Bluesky" />
-</a>
-<a href="https://www.linkedin.com/feed/?shareActive=true&text=I%20just%20completed%20the%20%22Introduction%20to%20GitHub%22%20GitHub%20Skills%20hands-on%20exercise!%20%F0%9F%8E%89%0A%0Ahttps%3A%2F%2Fgithub.com%2FB2-muhammed%2Fskills-introduction-to-github%0A%0A%23GitHubSkills%20%23OpenSource%20%23GitHubLearn" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/Share%20on%20LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Share on LinkedIn" />
-</a>
+[KEEP YOUR THREE SHARE BUTTONS (X, Bluesky, LinkedIn) EXACTLY AS THEY ARE]
 
 ### 🎯 What's Next?
 
-**Keep the momentum going!**
-
-[![](https://img.shields.io/badge/Return%20to%20Exercise-%E2%86%92-1f883d?style=for-the-badge&logo=github&labelColor=197935)](https://github.com/B2-muhammed/skills-introduction-to-github/issues/1)
-[![GitHub Skills](https://img.shields.io/badge/Explore%20GitHub%20Skills-000000?style=for-the-badge&logo=github&logoColor=white)](https://learn.github.com/skills))
-
-*There's no better way to learn than building things!* 🚀
+[![Return to Exercise](https://img.shields.io/badge/Return%20to%20Exercise-%E2%86%92-1f883d?style=for-the-badge&logo=github&labelColor=197935)](https://github.com/B2-muhammed/skills-introduction-to-github/issues/1)
+[![GitHub Skills](https://img.shields.io/badge/Explore%20GitHub%20Skills-000000?style=for-the-badge&logo=github&logoColor=white)](https://learn.github.com/skills)
 
 </div>
 
 ---
 
 &copy; 2025 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
-
